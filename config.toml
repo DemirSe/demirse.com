@@ -1,0 +1,16 @@
+baseURL = 'https://demirse.com/'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+
+[params]
+author = "Test"
+user = "test"
+hostname = "demirse.com"
+footerHtml = 'Demir was here'
+
+[[params.social]]
+key = 0
+name = "Buraya Tıklama"
+url = "https://open.spotify.com/track/5dbJ9V8X5vzroiZAUCK7f6?si=644a5f32f2aa4a62"
