@@ -1,4 +1,4 @@
-baseURL = 'https://demirse.com/'
+baseURL = 'https://demirse.github.io/demirse.com/'
 languageCode = 'en-us'
 theme = "nightfall"
 
